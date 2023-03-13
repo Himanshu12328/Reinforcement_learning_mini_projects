@@ -1,1 +1,33 @@
 # Reinforcement_learning_mini_projects
+This repository contains four projects demonstrating proficiency in various Deep Reinforcement Learning algorithms.
+
+## Projects
+### Continuous Grasping with DQN: 
+Designed an accurate Deep Q-Learning network that used continuous visual feedback to learn effective grasping of regular objects.
+
+### Breakout with DQN: 
+Successfully implemented DQN to play Breakout and achieved a mean score of 127 points, showcasing a strong grasp of reinforcement learning fundamentals and their practical applications.
+
+### Policy and Value Iteration: 
+Demonstrated proficiency in policy iteration and value iteration by implementing them for Frozen Lake environment from OpenAI Gym.
+
+### Model-Free Algorithms: 
+Implemented two effective model-free algorithms, including first-visit Monte-Carlo(MC) for on-policy prediction and control for blackjack and Temporal-Difference(TD) for cliff walking.
+
+
+
+Each project has its own folder containing the project code and a README file providing further details about the project.
+
+### Continuous Grasping with DQN
+This folder contains the code for training and testing a Deep Q-Learning network to learn effective grasping of regular objects using continuous visual feedback.
+
+### Breakout with DQN
+This folder contains the code for implementing DQN to play Breakout and achieving a mean score of 127 points.
+
+### Policy and Value Iteration
+This folder contains the code for implementing policy iteration and value iteration algorithms for Frozen Lake environment from OpenAI Gym.
+
+### Model-Free Algorithms
+This folder contains the code for implementing two effective model-free algorithms, including first-visit Monte-Carlo(MC) for on-policy prediction and control for blackjack and Temporal-Difference(TD) for cliff walking.
+
+Each folder has its own README.md file with further details about the project and how to run the code.
